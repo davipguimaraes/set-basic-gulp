@@ -6,5 +6,7 @@ Configurações básicas para uma funcionalidade para web
 ## Gulp tasks
 
 `npm run gulp js` 
+
 `npm run gulp css`
+
 `npm run gulp clean`
